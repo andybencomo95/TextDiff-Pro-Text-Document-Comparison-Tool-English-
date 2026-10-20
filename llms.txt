@@ -1,0 +1,12 @@
+# TextDiff Pro
+
+> Free online text & document comparison tool (diff checker). Paste two texts or upload TXT, MD, DOCX, PDF, HTML, CSV or code. Get word-by-word differences (green = added, red = removed), similarity %, added/removed counts. 100% private: all processing runs locally in the browser with JavaScript. No sign-up, no limits.
+
+- URL: https://yourdomain.com/text-compare-tool/
+- Language: English (en). Audience: US, UK, CA, AU + worldwide.
+- How to use: 1) Paste original in panel A and changed text in panel B (or drag files). 2) Click Compare now. 3) Read similarity %, copy/download/share/print the report.
+- Features: word/line/character diff (Myers + LCS), side-by-side + unified views, case/whitespace/empty-line options, only-changes filter, history (localStorage), share link (#a= &b=), print report, dark mode, responsive, PWA.
+- Formats: .txt .md .markdown .csv .json .js .css .html .xml .log .srt read natively; .docx via Mammoth; .pdf via PDF.js (up to 50 pages, needs text layer).
+- Privacy: no uploads of the compared content, no backend for the comparison engine, no tracking in our own code. Ideal for contracts, exams, code, sensitive docs. The site is supported by Google AdSense: Google and its partners may use cookies or similar technologies to serve and measure ads (opt out at adssettings.google.com). The text you compare is never sent to us or to Google.
+- FAQ answers: free with no sign-up; DOCX/PDF supported locally; similarity % = share of matching tokens; no practical character limit; mobile-first; plagiarism = similarity % is a first signal, confirm with dedicated checker.
+- Comparison: vs Diffchecker (limits/paid, server-side) and SmallSEOTools (ads/captchas, server-side) — this tool is free unlimited, private, with DOCX/PDF local extraction, share/print/history, dark mode.

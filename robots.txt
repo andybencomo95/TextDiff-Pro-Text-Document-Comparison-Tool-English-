@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /sw.js
+Sitemap: https://yourdomain.com/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /

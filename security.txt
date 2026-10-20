@@ -1,0 +1,2 @@
+Contact: mailto:hello@yourdomain.com
+Preferred-Languages: en
